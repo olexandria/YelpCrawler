@@ -14,3 +14,9 @@ The crawler returns a file with json objects, each json representing a business 
 + Reviewer name
 + Reviewer location
 + Review date
+
+##### Run the spider by using the scrapy crawl command:
+
+```powershell
+$ scrapy crawl yelpcrawler -o output.json
+```
