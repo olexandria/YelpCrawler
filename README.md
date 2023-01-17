@@ -9,7 +9,8 @@ The crawler returns a file with json objects, each json representing a business 
 * Number of reviews
 * Business yelp url
 * Business website
-List of first 5 reviews, for each review:
+
+> List of first 5 reviews, for each review:
 + Reviewer name
 + Reviewer location
 + Review date
